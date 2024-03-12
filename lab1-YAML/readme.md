@@ -15,6 +15,6 @@
 
 ## Create `cars.yml` file
 
-1. Create a yaml file named `cars.yml`
-2. Update the yaml file with four arrays of four car brands: BMW, Mercedes, Audi, Lamborghini where each array would display their signature colour respectively: 'blue, black, silver, and yellow'
-3. Update the yaml file to add the details of headquarters of all companies in array: the key is `headquarters` and values will be: 'Munich, Stuttgart, Ingolstadt, Emilia-Romagna'
+1. Create a `yaml` file named `cars.yml`
+2. Update the `yaml` file with four arrays of four car brands: `BMW, Mercedes, Audi, `Lamborghini` where each array would display their signature `colour` respectively: `'blue, black, silver, and yellow'`
+3. Update the yaml file to add the details of `headquarters` of all companies in `array`: the key is `headquarters` and values will be: `'Munich, Stuttgart, Ingolstadt, Emilia-Romagna'`
