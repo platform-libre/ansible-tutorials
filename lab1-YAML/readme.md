@@ -1,6 +1,6 @@
 # Setting up Lab-1 YAML
 
-1. Create a yaml file called `practice.yml` under the directory /home/$USER/labs
+1. Create a yaml file called `practice.yml` under the directory /home/`$USER`/labs
 2. Add a key `car` and value `Tesla`.
 3. Add a key `plane` and value `Boeing`
 4. Modify the yaml file to add the following key-value pairs below the key-value pair `car: Tesla`: key `fuel` and value `electric`; key `color` and value `white`; key `seats` and value `5`
