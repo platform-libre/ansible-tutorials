@@ -1,4 +1,4 @@
-# Setting up Lab-1 YAML
+# Lab-1: Creating YAML File
 
 ## Create `practice.yml` file
 
